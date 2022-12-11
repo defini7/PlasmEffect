@@ -1,0 +1,9 @@
+object FormMain: TFormMain
+  Left = 707
+  Height = 600
+  Top = 294
+  Width = 800
+  Caption = 'Plasm'
+  OnPaint = FormPaint
+  LCLVersion = '2.2.4.0'
+end
